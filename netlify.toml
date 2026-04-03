@@ -1,0 +1,6 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "https://blog.chatongxue.top"
+    Access-Control-Allow-Methods = "GET, POST, OPTION"
+    Access-Control-Allow-Headers = "Content-Type"
